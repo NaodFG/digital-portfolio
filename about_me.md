@@ -15,11 +15,6 @@ Throughout my career, I have been driven by a passion for uncovering insights an
 As a skilled practitioner of supervised and unsupervised machine learning techniques, I am confident in my ability to deliver measurable results through data cleaning, feature engineering, and model selection. I am comfortable with a variety of data types, including structured, unstructured, and semi-structured data, and am proficient in multiple programming languages and data analysis tools, such as Python, R, SQL, and Tableau. 
 
 
-```{note}
-With my ability to work under pressure and manage multiple projects simultaneously while maintaining a high level of attention to detail, I am a proven asset to any fast-paced team. 
-```
-
-
 Throughout my career, I have worked in diverse industries, including finance, healthcare, and retail, where I have gained experience working with cross-functional teams and communicating complex data insights to technical and non-technical stakeholders. I am adept at translating data-driven insights into actionable recommendations that drive business outcomes. 
 
 
